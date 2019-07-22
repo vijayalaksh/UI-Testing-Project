@@ -25,7 +25,7 @@ public class JavaScriptExecutor {
 		arrylist.add("Java");
 		arrylist.add("Selenium");
 		arrylist.add(".net");
-		
+		arrylist.add("vals");
 		
 		arrylist.forEach((n)->System.out.println(n));
 	
